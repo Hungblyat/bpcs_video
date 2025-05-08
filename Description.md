@@ -1,4 +1,4 @@
-# Bài Lab: BPCS Extract
+# Bài Lab: BPCS Extract và Steg
 Mô tả:
 Bài lab này hướng dẫn cách trích xuất dữ liệu được ẩn trong video bằng phương pháp BPCS (Bit-Plane Complexity Segmentation). Người học sẽ:
 
