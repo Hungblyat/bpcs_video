@@ -2,3 +2,8 @@
 ```sh
 imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_extract.tar
 ```
+
+# Thực hiện tải bài lab bpcs_steg bằng lệnh 
+```sh
+imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_steg.tar
+```
