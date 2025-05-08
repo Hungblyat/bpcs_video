@@ -1,5 +1,5 @@
 # Bài Lab: BPCS Extract và Steg
-Mô tả:
+## Mô tả:
 Bài lab này hướng dẫn cách trích xuất dữ liệu được ẩn trong video bằng phương pháp BPCS (Bit-Plane Complexity Segmentation). Người học sẽ:
 
 Hiểu được nguyên lý cơ bản của phương pháp BPCS.
@@ -8,13 +8,13 @@ Hiểu được nguyên lý cơ bản của phương pháp BPCS.
 
 Kiểm tra khả năng giải mã và đảm bảo dữ liệu được tái tạo chính xác.
 
-Mục tiêu:
+## Mục tiêu:
 
 Nắm vững cách hoạt động của BPCS trong việc trích xuất dữ liệu.
 
 Thực hành trích xuất dữ liệu từ một file video mẫu.
 
-Yêu cầu:
+## Yêu cầu:
 
 Kiến thức cơ bản về steganography.
 
