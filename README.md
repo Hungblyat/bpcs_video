@@ -11,3 +11,13 @@ imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_extract
 ```sh
 imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_steg.tar
 ```
+
+# Thực hiện tải bài lab bpcs_evaluate bằng lệnh 
+```sh
+imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_evaluate.tar
+```
+
+# Thực hiện tải bài lab bpcs_auth bằng lệnh 
+```sh
+imodule https://github.com/Hungblyat/bpcs_video/raw/refs/heads/main/bpcs_auth.tar
+```
